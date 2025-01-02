@@ -3,7 +3,7 @@
 
 Rustex Remake — проект, нацеленный на перенос игры Rust в Minecraft! На данный момент проект находится на стадии закрытого бета тестирования, подробности в дискорд сервере https://discord.gg/gp4PrYc
 
-Development using: PaperSpigot 1.12.2, MCP 1.12.2, OptiFine G5, lwjgl 2.9.4, rust assets
+Development using: PaperSpigot 1.12.2, MCP 1.12.2, OptiFine G5, lwjgl 3, rust assets
 
 Developers: koptokop, Risen & others
 
